@@ -1,5 +1,5 @@
 # check the deployed model please click here
-## [movie recommendation system by saurabh Srivastava](https://streamlit.io/](https://huggingface.co/spaces/saurabhSriv2001/movie_recommendation_system_with_more_features )
+## [movie recommendation system by saurabh Srivastava](https://huggingface.co/spaces/saurabhSriv2001/movie_recommendation_system_with_more_features)
 
 # 🎮 Movie Recommender System  
 
