@@ -1,0 +1,7 @@
+ipykernel
+pickle5
+numpy 
+pandas
+os
+requests
+streamlit
